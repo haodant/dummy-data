@@ -1,8 +1,29 @@
 {
-  "posts": [
+  "students": [
     {
       "id": 1,
-      "title": "hello"
+      "name": "user name 1",
+      "img": "https://i.pravatar.cc/300"
+    },
+    {
+      "id": 2,
+      "name": "user name 2",
+      "img": "https://i.pravatar.cc/300"
+    },
+    {
+      "id": 3,
+      "name": "user name 3",
+      "img": "https://i.pravatar.cc/300"
+    },
+    {
+      "id": 4,
+      "name": "user name 4",
+      "img": "https://i.pravatar.cc/300"
+    },
+    {
+      "id": 5,
+      "name": "user name 5",
+      "img": "https://i.pravatar.cc/300"
     }
   ],
   "profile": {
